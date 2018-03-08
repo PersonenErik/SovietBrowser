@@ -1,0 +1,30 @@
+.meny {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.meny ul {
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+	background: red;
+	border: 6px solid darkred;
+}
+
+.meny ul li {
+	display: flex;
+	padding: 20px;
+}
+
+#header {
+	padding: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+body {
+   background-image: url("https://lh3.googleusercontent.com/7ioI75yZ_T776FXG1b7vHyb-0GfUGxJVBeXl5CXQ70Eqrfxw7NrEKXNYMh3Ekh_1sbU=h900");
+   background-color: #cccccc;
+   font-family: "Kremlin";
+}
